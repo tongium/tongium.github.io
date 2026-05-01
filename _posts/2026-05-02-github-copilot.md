@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "My First Post: GitHub Copilot"
-date: 2026-05-02
+date: 2026-05-02 00:00:00 +0700
 ---
 
 # My First Post: GitHub Copilot
