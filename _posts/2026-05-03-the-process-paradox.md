@@ -10,17 +10,17 @@ We are often taught that success is like a recipe: if you follow the steps exact
 
 But in the real world, **a good process does not guarantee a good result.** 
 
-### 1. The "Outcome Bias" (Judging by Results)
+### The "Outcome Bias" (Judging by Results)
 Psychologists call our biggest mistake **Outcome Bias**. We often judge a decision by how it turned out, rather than the quality of the decision itself.
 
 *   **Example:** If you drive home drunk and arrive safely, was it a "good process"? No, it was a terrible process with a lucky result.
 *   **The Lesson:** Research shows we often blame a good process when we just had bad luck, or praise a bad process when we just got lucky. Don't change your system just because of one unlucky day.
 
-### 2. Efficiency vs. Effectiveness
+### Efficiency vs. Effectiveness
 Think of a treadmill. You can run perfectly (Efficiency), but if the treadmill isn't moving toward your destination, you aren't getting anywhere (Effectiveness).
 *   **The Trap:** Many teams focus on "checking the boxes" and finishing tasks. They are so busy following the rules that they forget to check if the rules are still helping them reach their goal.
 
-### 3. The "Invisible Web" (Normal Accidents)
+### The "Invisible Web" (Normal Accidents)
 Why do things fail even when everyone follows the rules? Sociologist Charles Perrow calls this **Normal Accidents**. 
 
 Imagine a giant web of strings. In a simple world, if you pull one string, one bell rings. But in a complex world, pulling a string over here might make a shelf fall over there because the strings are tangled in ways you can't see.
