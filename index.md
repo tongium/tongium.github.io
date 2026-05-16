@@ -17,6 +17,3 @@ title: Home
 No posts yet. New writing will show up here once posts are added.
 {% endif %}
 
-## Start here
-
-- [About]({{ "/about/" | relative_url }})
