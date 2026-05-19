@@ -12,8 +12,6 @@ To design true fault tolerance, we have to look at system safety from two distin
 
 Imagine a stack of Swiss cheese slices side-by-side. Each slice represents a macro layer of defense designed to prevent a failure—like your automated CI testing, staging environments, or runtime monitoring.
 
-<Image src="image_agent_tag_16782974075454333071" alt="Swiss cheese model diagram showing organizational influences, unsafe supervision, preconditions, and unsafe acts as layers with holes aligning to cause a mishap" caption="The classic Swiss Cheese Model of accident causation" />
-
 The catch? No layer is perfect. Every defense has holes—representing software bugs, process gaps, or human errors. As long as the holes are in different places, the system remains safe; one layer catches what another lets slip. A catastrophe only occurs when the holes in **every single slice** align perfectly, allowing a hazard to pass straight through the entire stack.
 
 ## The Micro View: Poka-Yoke (Mistake-Proofing)
