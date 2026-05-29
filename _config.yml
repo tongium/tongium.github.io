@@ -3,5 +3,5 @@ description: A blog about random things that I find interesting.
 timezone: Asia/Bangkok
 author:
   name: Tongium
-google_analytics: # Add your ID here if you have one
-show_excerpts: true # Helps with AEO and main page flow
+google_analytics: G-MJ98RDEJM0
+show_excerpts: true
