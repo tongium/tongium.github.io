@@ -3,7 +3,12 @@ layout: default
 ---
 
 <article>
-  <span class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</span>
+  <span class="post-meta">
+    {{ page.date | date: "%B %-d, %Y" }}
+    {% if page.tags.size > 0 %}
+      • Tags: {{ page.tags | join: ", " }}
+    {% endif %}
+  </span>
   <h1>{{ page.title }}</h1>
   {{ content }}
 </article>

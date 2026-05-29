@@ -2,6 +2,8 @@
 layout: post
 title: "The Quiet Joy of a Lost Weekend"
 date: 2026-05-30 09:00:00 +0700
+tags: [lifestyle, gaming, mindfulness]
+description: "A reflection on the value of a planless weekend, spending time with old games, and the freedom found in avoiding traditional productivity."
 ---
 
 They tell you that time is a resource to be managed, a garden to be weeded, a series of boxes to be checked. For as long as I can remember, I haven't been that kind of man. I’ve never been "productive" in the way the world seems to demand. 

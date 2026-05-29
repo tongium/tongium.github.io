@@ -131,3 +131,9 @@ footer {
     margin-bottom: 1rem;
     display: block;
 }
+
+.post-meta a {
+    color: var(--accent-color);
+    border: none;
+    text-decoration: underline;
+}
