@@ -4,8 +4,6 @@ title: "My First Post: GitHub Copilot"
 date: 2026-05-02 00:00:00 +0700
 ---
 
-# My First Post: GitHub Copilot
-
 GitHub Copilot is one of those tools that quickly goes from "interesting demo" to something that feels natural in daily work.
 
 What I like most is that it helps reduce the friction around small, repetitive tasks. It can suggest boilerplate, help sketch out an approach, and speed up the parts of coding that are useful but not especially exciting.

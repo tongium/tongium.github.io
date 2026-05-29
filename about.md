@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 Welcome to {{ site.title }}.
 
 {{ site.description }}
