@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Swiss Cheese Model and Poka-Yoke: Two Views on Fault Tolerance"
 date: 2026-05-20 01:30:00 +0700
 ---

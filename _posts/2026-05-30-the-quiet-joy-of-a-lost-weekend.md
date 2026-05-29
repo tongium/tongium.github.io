@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Quiet Joy of a Lost Weekend"
 date: 2026-05-30 09:00:00 +0700
 ---

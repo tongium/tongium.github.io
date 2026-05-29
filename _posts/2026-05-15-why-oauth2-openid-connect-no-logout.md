@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Logout Paradox: Why OAuth2 and OpenID Connect Don't Just Have a 'Logout' Button"
 date: 2026-05-15 14:00:00 +0700
 ---

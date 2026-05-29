@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Process Paradox: Why 'Doing Everything Right' Can Still Fail"
 date: 2026-05-03 10:20:00 +0700
 ---
