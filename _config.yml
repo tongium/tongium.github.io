@@ -5,3 +5,4 @@ author:
   name: Tongium
 google_analytics: G-MJ98RDEJM0
 show_excerpts: true
+future: true # Ensure posts dated today are visible
