@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Generate 1200x630 Open Graph images into assets/images/og/ for each post
 and a default one. Usage: uv run scripts/generate_og_images.py"""
 
@@ -35,16 +34,16 @@ def render(title, path):
     size = 76
     while True:
         f = font(size)
-        lines = []
-        for para in textwrap.wrap(title, width=max(10, int(1000 / (size * 0.55)))):
-            lines.append(para)
-        if len(lines) <= 4 and all(d.textlength(l, font=f) <= 1030 for l in lines):
+        lines = textwrap.wrap(title, width=max(10, int(1000 / (size * 0.55))))
+        if len(lines) <= 4 and all(
+            d.textlength(line, font=f) <= 1030 for line in lines
+        ):
             break
         size -= 4
     lh = int(size * 1.25)
     y = (H - lh * len(lines)) // 2 - 20
-    for l in lines:
-        d.text((80, y), l, font=f, fill=FG)
+    for line in lines:
+        d.text((80, y), line, font=f, fill=FG)
         y += lh
     d.text((80, H - 90), BLOG, font=font(34), fill=ACCENT)
     d.text(
@@ -67,4 +66,5 @@ def main():
         print("generated", p.stem[11:])
 
 
-main()
+if __name__ == "__main__":
+    main()
