@@ -2,6 +2,9 @@
 layout: post
 title: "My First Post: GitHub Copilot"
 date: 2026-05-02 00:00:00 +0700
+tags: [technology, AI, coding]
+description: "How GitHub Copilot cuts friction on repetitive coding tasks, and why it still needs a human to steer and review."
+image: /assets/images/og/github-copilot.png
 ---
 
 GitHub Copilot is one of those tools that quickly goes from "interesting demo" to something that feels natural in daily work.

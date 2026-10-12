@@ -4,6 +4,7 @@ title: "Why I Can't Eat Fruit Like I Used To"
 date: 2026-07-06 22:20:00 +0700
 tags: [thoughts, nostalgia, food, reflection]
 description: "A reflection on why the fruit from my childhood seems to have vanished, and what forces are shaping the food we eat."
+image: /assets/images/og/why-i-cant-eat-fruit-like-i-used-to.png
 ---
 
 Growing up, there were certain fruits that were just a normal part of childhood. I remember the sharp, tongue-tingling sourness of bilimbi plucked straight from a backyard tree, or the crisp, juicy ridges of star fruit that bruised if you so much as looked at them the wrong way. They weren't perfectly shaped. They were fragile, messy, and sometimes overwhelmingly tart. But the taste was vibrant and felt entirely alive.

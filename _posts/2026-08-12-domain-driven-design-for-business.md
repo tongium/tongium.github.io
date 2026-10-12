@@ -2,6 +2,9 @@
 layout: post
 title: "Domain-Driven Design: The Business Leader's Blueprint for Aligning Software with Strategy"
 date: 2026-08-12 10:00:00 +0700
+tags: [technology, DDD, business, architecture]
+description: "A business leader's guide to Domain-Driven Design: how structuring software around your business domain aligns engineering with strategy."
+image: /assets/images/og/domain-driven-design-for-business.png
 ---
 
 In many organizations, there is a silent, ongoing frustration: business leaders feel that software development is too slow and disconnected from strategy, while software developers feel that business requirements are constantly shifting and poorly defined. 

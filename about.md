@@ -2,10 +2,22 @@
 layout: default
 title: About
 permalink: /about/
+description: "About Tongium's Blog, a personal blog on technology, software design, decision-making and culture."
 ---
 
-Welcome to {{ site.title }}.
+**{{ site.title }}** is a personal blog by {{ site.author.name }}. {{ site.description }}
 
-{{ site.description }}
+Topics include software architecture and security, AI, decision-making, and everyday observations.
 
-This site is set up as a simple GitHub Pages blog and is ready for future posts.
+Browse the [latest posts]({{ "/" | relative_url }}) or subscribe via [RSS]({{ "/feed.xml" | relative_url }}).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ site.author.name | jsonify }},
+  "url": {{ "/about/" | absolute_url | jsonify }},
+  "mainEntityOfPage": {{ "/about/" | absolute_url | jsonify }},
+  "owns": {"@type": "Blog", "name": {{ site.title | jsonify }}, "url": {{ "/" | absolute_url | jsonify }}}
+}
+</script>

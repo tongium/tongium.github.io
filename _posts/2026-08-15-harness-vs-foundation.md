@@ -4,6 +4,7 @@ title: "Harness vs. Foundation: Navigating the Modern Developer's Dilemma"
 date: 2026-08-15 09:00:00 +0700
 tags: [technology, learning, software engineering, productivity]
 description: "A balanced look at the tension and synergy between harnessing modern high-level tools (like AI and frameworks) and mastering core software engineering foundations."
+image: /assets/images/og/harness-vs-foundation.png
 ---
 
 Every new developer entering the field today faces a quiet but high-stakes dilemma.

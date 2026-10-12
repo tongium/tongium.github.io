@@ -2,6 +2,9 @@
 layout: post
 title: "The Logout Paradox: Why OAuth2 and OpenID Connect Don't Just Have a 'Logout' Button"
 date: 2026-05-15 14:00:00 +0700
+tags: [technology, security, OAuth2, OIDC]
+description: "Why OAuth2 and OpenID Connect have no simple logout endpoint: authorization vs. sessions, stateless tokens, and front-channel and back-channel logout."
+image: /assets/images/og/why-oauth2-openid-connect-no-logout.png
 ---
 
 If you’ve ever built an application using OAuth2 or OpenID Connect (OIDC), you’ve probably hit a wall when it came time to implement the "Logout" feature. You expect a simple API call like `POST /logout`, but instead, you find yourself reading complex specs about Front-Channel Logout, Back-Channel Logout, and Session Management.

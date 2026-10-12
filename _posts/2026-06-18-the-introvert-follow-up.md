@@ -4,6 +4,7 @@ title: "The Introvert's Guide to Following Up"
 date: 2026-06-18 09:00:00 +0700
 tags: [productivity, communication, introvert]
 description: "Practical advice for introverts on how to follow up on tasks from others without the anxiety."
+image: /assets/images/og/the-introvert-follow-up.png
 ---
 
 I hate following up.

@@ -2,6 +2,9 @@
 layout: post
 title: "The Process Paradox: Why 'Doing Everything Right' Can Still Fail"
 date: 2026-05-03 10:20:00 +0700
+tags: [decision-making, psychology, process]
+description: "Why a good process doesn't guarantee a good result: outcome bias, luck, and how to judge decisions by their quality rather than how they turned out."
+image: /assets/images/og/the-process-paradox.png
 ---
 
 We are often taught that success is like a recipe: if you follow the steps exactly, you will get a perfect cake. We spend months building "the perfect process," believing it is a safety net.

@@ -4,6 +4,7 @@ title: "AI Slop, and the Dark Jokes AI Writes About Itself"
 date: 2026-10-12 09:00:00 +0700
 tags: [technology, AI, writing, culture]
 description: "What AI slop is, why it's flooding the internet, and what happens when you ask a language model to write dark humor about its own existence."
+image: /assets/images/og/ai-slop-and-dark-jokes.png
 ---
 
 You know the feeling. You open an article, and by the second paragraph something is off. The sentences are smooth. The structure is tidy. Every point arrives in threes. And yet, nobody seems to be home.

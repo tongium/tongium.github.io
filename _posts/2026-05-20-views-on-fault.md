@@ -2,6 +2,9 @@
 layout: post
 title: "The Swiss Cheese Model and Poka-Yoke: Two Views on Fault Tolerance"
 date: 2026-05-20 01:30:00 +0700
+tags: [technology, reliability, systems]
+description: "The Swiss Cheese Model (macro layers of defense) and Poka-Yoke (micro error-proofing): two complementary views on designing fault-tolerant systems."
+image: /assets/images/og/views-on-fault.png
 ---
 
 In complex systems, catastrophic failures rarely happen because a single thing went wrong. Instead, they happen because multiple minor issues align perfectly to bypass every single defense. 

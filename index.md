@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: "A blog about random things that I find interesting: technology, software design, decision-making and culture."
 ---
 
 ## Latest posts
